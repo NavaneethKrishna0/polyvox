@@ -1,0 +1,19 @@
+# Python / Backend
+__pycache__/
+*.pyc
+.env
+venv/
+backend/uploads/
+backend/audio_outputs/
+
+# Node / Frontend
+node_modules/
+.next/
+build/
+dist/
+
+# System files
+.DS_Store
+
+# Credentials (just in case)
+gcloud-credentials.json
